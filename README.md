@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there! 👋
+
+Hey, my name is Nathan, I'm a Full Stack Developer that is currently working for CoderHeroes in an apprenticeship position as a UX/UI Engineer. I'm very passionate about the design process and artistic styling that frontend development allows for because it allows for a 'different take' on programming.
 
 <!--
 **natecheney-dev/natecheney-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
