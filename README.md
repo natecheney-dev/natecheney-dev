@@ -1,5 +1,6 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="300" width="600" />
-
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="300" width=500 />
+</div>
 # Hello! I'm Nathan. 👋
 
 I'm a Web Developer that works with React on the frontend and Node.js and Express.js for the backend.
