@@ -1,6 +1,6 @@
-### Hello there! 👋
+![profile-banner](./download.png)
 
-My name is Nathan Cheney, I'm a Web Developer that works with React on the frontend and Node.js and Express.js for the backend.
+I'm a Web Developer that works with React on the frontend and Node.js and Express.js for the backend.
 
 I love working to solve problems, troubleshoot, and help others when it comes to tech support. I have worked with a variety of developmental and design tools over the years and have a openness and passion for new experiences and learning new things. I hope to be able to fill a senior level position so that I can share the knowledge I have developed over the years.
 
