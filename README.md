@@ -1,6 +1,6 @@
-![profile-banner](./download.png)
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="300" width="600" />
 
-<img style=”margin: 10px” src=”https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt=”React” height=”50" />
+# Hello! I'm Nathan. 👋
 
 I'm a Web Developer that works with React on the frontend and Node.js and Express.js for the backend.
 
